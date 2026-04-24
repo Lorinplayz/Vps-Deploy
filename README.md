@@ -11,6 +11,7 @@
 - ``` git clone https://github.com/Lorinplayz/Vps-Deploy/```
 - ```cd Vps-Deploy```
 - ``` bash install.sh```
+- ```ADD YOUR BOT TOKEN```
 
 - *Do not remove the Credit **
 - if you wanna use the code give the credit to @Lorinplayz
