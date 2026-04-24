@@ -11,7 +11,7 @@ echo "
 
 echo "    ✨ LORINPLAYZ VPS Creator - Make your own Free VPS Hosting ✨"
 echo "    ⚠️  DON'T ALLOW MINING - Respect the Terms of Service ⚠️"
-echo "    🔗 Credit: Original by katy-the-kat | Modified by LORINPLAYZ"
+echo "    🔗 Credit: Made by LORINPLAYZ"
 
 echo ""
 read -p "📋 Do you agree to not allow mining on created VPS? (y/n): " -n 1 -r
